@@ -101,7 +101,7 @@ College-Admission-Agent/
 |   ├── cutoff_data/
 |   └── fee_structures/ 
 └── images/
-
+```
 ---
 
 ## Key Features
